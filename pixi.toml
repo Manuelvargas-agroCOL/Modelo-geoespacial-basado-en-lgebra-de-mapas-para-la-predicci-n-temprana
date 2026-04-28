@@ -1,0 +1,13 @@
+[workspace]
+name = "GeomaticaGeneral2026"
+channels = ["conda-forge"]
+platforms = ["win-64"]
+
+[dependencies]
+python = ">=3.10"
+geopandas = ">=0.14"
+leafmap = ">=0.30"
+rasterio = "*"
+pandas = "*"
+matplotlib = "*"
+notebook = "*"

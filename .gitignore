@@ -7,3 +7,4 @@ scripts/
 data/
 /.quarto/
 .Rhistory
+**/*.quarto_ipynb

@@ -44,7 +44,7 @@
     "href": "index.html#herramientas-y-entorno-de-trabajo",
     "title": "Geomática General",
     "section": "Herramientas y Entorno de Trabajo",
-    "text": "Herramientas y Entorno de Trabajo\nPara el desarrollo de las prácticas, utilizaremos un stack tecnológico moderno:\n\nSoftware SIG: QGIS y ArcGIS Pro.\nEntornos de Desarrollo: VSCode, Docker Desktop (para contenedores unificados), Jupyter Lab y Quarto.\nPlataformas Cloud: Google Earth Engine (GEE).\n\n\n\n\n\n\n\nNota sobre el material\n\n\n\nEste material ha sido diseñado para facilitar la transición de la teoría a la implementación práctica, priorizando el uso de herramientas de código abierto y estándares internacionales.\n\n\n\nInstitución: Universidad Nacional de Colombia\nPrograma: Maestría en Geomática",
+    "text": "Herramientas y Entorno de Trabajo\nPara el desarrollo de las prácticas, utilizaremos un stack tecnológico moderno:\n\nSoftware SIG: QGIS y ArcGIS Pro.\nEntornos de Desarrollo: VSCode, Docker Desktop (para contenedores unificados), Jupyter Lab y Quarto.\nPlataformas Cloud: Google Earth Engine (GEE).\n\n\n\n\n\n\n\nImportanteNota sobre el material\n\n\n\nEste material ha sido diseñado para facilitar la transición de la teoría a la implementación práctica, priorizando el uso de herramientas de código abierto y estándares internacionales.\n\n\n\nInstitución: Universidad Nacional de Colombia\nPrograma: Maestría en Geomática",
     "crumbs": [
       "Bienvenida"
     ]
